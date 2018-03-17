@@ -2,4 +2,5 @@
 
 
 //#define DETECTFACE
-#define PLAYAVI
+//#define PLAYAVI
+#define IMAGEROI
