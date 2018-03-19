@@ -27,6 +27,9 @@
     <ClCompile Include="ImageROI.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="EdgeDetect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EnableSW.h">

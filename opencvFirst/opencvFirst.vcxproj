@@ -80,6 +80,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DetectFace.cpp" />
+    <ClCompile Include="EdgeDetect.cpp" />
     <ClCompile Include="ImageROI.cpp" />
     <ClCompile Include="opencvTest.cpp" />
     <ClCompile Include="playAVI.cpp" />

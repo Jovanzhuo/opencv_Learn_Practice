@@ -3,4 +3,5 @@
 
 //#define DETECTFACE
 //#define PLAYAVI
-#define IMAGEROI
+//#define IMAGEROI
+#define EDGEDETECT
