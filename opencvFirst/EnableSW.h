@@ -4,4 +4,5 @@
 //#define DETECTFACE
 //#define PLAYAVI
 //#define IMAGEROI
-#define EDGEDETECT
+//#define EDGEDETECT
+#define IMAGEFFTANALYZE
