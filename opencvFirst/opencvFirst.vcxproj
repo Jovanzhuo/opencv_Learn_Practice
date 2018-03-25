@@ -79,11 +79,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="connectedDomain.cpp" />
     <ClCompile Include="DetectFace.cpp" />
     <ClCompile Include="EdgeDetect.cpp" />
     <ClCompile Include="ImageFFT.cpp" />
     <ClCompile Include="ImageROI.cpp" />
     <ClCompile Include="opencvTest.cpp" />
+    <ClCompile Include="PlateRecognition.cpp" />
     <ClCompile Include="playAVI.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -5,4 +5,5 @@
 //#define PLAYAVI
 //#define IMAGEROI
 //#define EDGEDETECT
-#define IMAGEFFTANALYZE
+//#define IMAGEFFTANALYZE
+#define CONNECTEDDOMAIN
